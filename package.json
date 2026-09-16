@@ -1,0 +1,15 @@
+{
+  "name": "muevt-dati",
+  "private": true,
+  "type": "module",
+  "description": "Orari, avvisi, eventi e luoghi di Altamura per Muevt, aggiornati ogni giorno.",
+  "scripts": {
+    "aggiorna": "node scripts/aggiorna.mjs",
+    "controlla": "node scripts/aggiorna.mjs --solo-controllo"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.11.1",
+    "pdfjs-dist": "^6.3.289"
+  }
+}

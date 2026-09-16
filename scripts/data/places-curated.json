@@ -1,0 +1,213 @@
+[
+  {
+    "id": "cattedrale-santa-maria-assunta",
+    "name": "Cattedrale di Santa Maria Assunta",
+    "categories": [
+      "cultura"
+    ],
+    "icon": "church",
+    "highlight": true,
+    "duration": "45 min",
+    "description": "Fondata da Federico II nel 1232, è l'unica delle quattro basiliche palatine di Puglia rimasta legata alla città che la ospita. Il portale trecentesco racconta episodi della vita di Cristo in una sequenza di formelle che vale la pena leggere dal basso verso l'alto. I due campanili e il rosone sono aggiunte cinquecentesche: la facciata che vedi oggi guarda in direzione opposta rispetto a quella originaria, ruotata durante i lavori del Cinquecento.",
+    "tips": "L'ingresso è gratuito. Nel primo pomeriggio la luce entra dal rosone e illumina la navata centrale."
+  },
+  {
+    "id": "claustri-del-centro-storico",
+    "name": "Claustri del centro storico",
+    "categories": [
+      "cultura",
+      "esperienze"
+    ],
+    "icon": "landmark",
+    "highlight": true,
+    "lat": 40.82715,
+    "lon": 16.55345,
+    "duration": "1 h 30",
+    "description": "Sono oltre ottanta cortili chiusi che si aprono all'improvviso lungo i vicoli del centro. Nati come spazi difensivi e poi diventati luoghi di vita condivisa, ognuno ha un nome proprio e una storia legata alle famiglie che ci abitavano. Non esiste un percorso segnato: si entra, si guarda, si torna indietro. Claustro Tradotto, Claustro Sant'Anna e Claustro dei Martiri sono fra i più riconoscibili.",
+    "tips": "Sono cortili abitati. Vale la pena visitarli di giorno e senza alzare la voce."
+  },
+  {
+    "id": "porta-bari",
+    "name": "Porta Bari",
+    "categories": [
+      "cultura"
+    ],
+    "icon": "monument",
+    "highlight": true,
+    "duration": "15 min",
+    "description": "L'accesso storico alla città murata, ricostruito nel Settecento sull'impianto federiciano. Da qui parte il corso che porta alla Cattedrale, ed è il punto in cui il tessuto ottocentesco lascia spazio ai vicoli del nucleo antico."
+  },
+  {
+    "id": "museo-archeologico-nazionale-di-altamura",
+    "name": "Museo Archeologico Nazionale",
+    "categories": [
+      "cultura"
+    ],
+    "icon": "museum",
+    "highlight": true,
+    "duration": "1 h",
+    "description": "Il percorso copre la preistoria della Murgia, l'età peuceta e la Roma imperiale, con i corredi funerari provenienti dalle necropoli del territorio. È il punto di partenza più sensato per capire il contesto in cui è vissuto l'Uomo di Altamura."
+  },
+  {
+    "id": "palazzo-baldassarre-museo-dell-uomo-di-altamura",
+    "name": "Palazzo Baldassarre",
+    "categories": [
+      "cultura"
+    ],
+    "icon": "museum",
+    "highlight": true,
+    "duration": "50 min",
+    "description": "Ospita il racconto multimediale dell'Uomo di Altamura, lo scheletro neandertaliano trovato nella grotta di Lamalunga nel 1993. La grotta non è visitabile, quindi questo è il modo più diretto per vedere da vicino la ricostruzione e capire come è stato studiato senza mai estrarlo."
+  },
+  {
+    "id": "grotta-di-lamalunga",
+    "name": "Grotta di Lamalunga",
+    "categories": [
+      "cultura",
+      "trekking"
+    ],
+    "icon": "cave",
+    "highlight": true,
+    "duration": "mezza giornata",
+    "difficulty": "media",
+    "description": "Il sito in cui riposa l'Uomo di Altamura, incrostato di calcite da circa 150.000 anni. L'interno non è accessibile per ragioni di conservazione, ma il Centro Visite in superficie spiega la scoperta e la campagna murgiana attorno merita il percorso a piedi.",
+    "tips": "Si raggiunge dalla strada per Santeramo. Scarpe chiuse e acqua: non ci sono punti di ristoro."
+  },
+  {
+    "id": "pulo-di-altamura",
+    "name": "Pulo di Altamura",
+    "categories": [
+      "trekking"
+    ],
+    "icon": "nature",
+    "highlight": true,
+    "lat": 40.89093,
+    "lon": 16.57098,
+    "duration": "2 h",
+    "difficulty": "media",
+    "description": "La dolina carsica più grande della Murgia: 550 metri di diametro e pareti alte fino a novanta. Sul fondo e lungo il bordo si aprono grotte abitate nel Neolitico. Il belvedere sul lato sud dà la misura della cavità in un colpo d'occhio; il sentiero perimetrale richiede circa due ore.",
+    "tips": "D'estate conviene andarci presto: non c'è ombra lungo il bordo."
+  },
+  {
+    "id": "parco-nazionale-dell-alta-murgia",
+    "name": "Parco Nazionale dell'Alta Murgia",
+    "categories": [
+      "trekking"
+    ],
+    "icon": "nature",
+    "highlight": true,
+    "duration": "intera giornata",
+    "difficulty": "variabile",
+    "description": "Steppa mediterranea, muretti a secco, jazzi e masserie fortificate su oltre 68.000 ettari. È l'unico parco nazionale italiano nato per proteggere un paesaggio agricolo, e i sentieri partono a pochi chilometri dal centro di Altamura."
+  },
+  {
+    "id": "cava-pontrelli",
+    "name": "Cava dei dinosauri (Pontrelli)",
+    "categories": [
+      "trekking",
+      "cultura"
+    ],
+    "icon": "archaeology",
+    "highlight": true,
+    "lat": 40.80625,
+    "lon": 16.62465,
+    "duration": "1 h",
+    "description": "Una ex cava di calcare con circa trentamila orme di dinosauro impresse nel fondale di una laguna del Cretaceo. È uno dei giacimenti icnologici più estesi al mondo. L'area è recintata e la visita è possibile solo in date programmate: conviene verificare prima di mettersi in strada.",
+    "tips": "L'accesso non è libero. Controlla il calendario delle aperture prima di partire."
+  },
+  {
+    "id": "masseria-jesce",
+    "name": "Masseria Jesce",
+    "categories": [
+      "cultura",
+      "esperienze"
+    ],
+    "icon": "monument",
+    "duration": "1 h",
+    "description": "Masseria fortificata sull'antica via Appia, con una cripta rupestre affrescata tra XI e XIV secolo. Gli affreschi bizantini della cripta sono fra i meglio conservati dell'area murgiana."
+  },
+  {
+    "id": "parco-san-giuliano",
+    "name": "Parco San Giuliano",
+    "categories": [
+      "parchi"
+    ],
+    "icon": "park",
+    "duration": "1 h",
+    "description": "Il polmone verde a nord del centro, con percorsi pedonali, area giochi e prati. È servito dalle linee che passano dall'hub di via Santeramo, quindi è il parco più facile da raggiungere in autobus."
+  },
+  {
+    "id": "pane-di-altamura-dop",
+    "name": "Il pane di Altamura DOP",
+    "categories": [
+      "esperienze"
+    ],
+    "icon": "landmark",
+    "highlight": true,
+    "lat": 40.82762,
+    "lon": 16.55247,
+    "duration": "1 h",
+    "experience": "gusto",
+    "description": "Semola di grano duro, lievito madre, sale e acqua: il primo pane in Europa ad avere ottenuto la denominazione di origine protetta. I forni del centro storico lavorano ancora a legna e la cottura segue un disciplinare preciso. Diversi panifici aprono il laboratorio in orario di infornata.",
+    "tips": "La forma alta si chiama 'u sckuanète'. Si conserva bene per giorni: è nel disciplinare."
+  },
+  {
+    "id": "passeggiata-mura-megalitiche",
+    "name": "Anello delle mura megalitiche",
+    "categories": [
+      "trekking",
+      "cultura"
+    ],
+    "icon": "monument",
+    "lat": 40.82438,
+    "lon": 16.54812,
+    "duration": "1 h 15",
+    "difficulty": "facile",
+    "description": "Un percorso urbano lungo i tratti superstiti della cinta megalitica di età preclassica, il motivo per cui la città si chiama Altamura. Si cammina su asfalto, con qualche tratto sterrato nei pressi dei blocchi meglio conservati."
+  },
+  {
+    "id": "stazione-di-altamura",
+    "name": "Stazione di Altamura",
+    "lat": 40.83814,
+    "lon": 16.55172,
+    "categories": [
+      "esperienze"
+    ],
+    "icon": "station",
+    "osm": "way/410905814",
+    "description": "Il capolinea ferroviario delle Ferrovie Appulo Lucane, da cui partono i treni per Bari e per Matera. E' anche il nodo da cui si diramano quasi tutte le linee urbane: chi arriva ad Altamura in treno comincia da qui.",
+    "highlight": false,
+    "duration": null,
+    "difficulty": null
+  },
+  {
+    "id": "stadio-tonino-dangelo",
+    "name": "Stadio Comunale Tonino D'Angelo",
+    "lat": 40.83677,
+    "lon": 16.55769,
+    "categories": [
+      "esperienze"
+    ],
+    "icon": "stadium",
+    "osm": "way/1386678728",
+    "description": "Lo stadio comunale, intitolato a Tonino D'Angelo, e' il campo della squadra cittadina e il punto di riferimento per le partite e le manifestazioni sportive.",
+    "highlight": false,
+    "duration": null,
+    "difficulty": null
+  },
+  {
+    "id": "cimitero-di-altamura",
+    "name": "Cimitero di Altamura",
+    "lat": 40.82493,
+    "lon": 16.54197,
+    "categories": [
+      "cultura"
+    ],
+    "icon": "cemetery",
+    "osm": "way/145910685",
+    "description": "Il cimitero monumentale, servito da piu' linee urbane: e' una delle destinazioni piu' frequenti del servizio, soprattutto nei giorni di festa.",
+    "highlight": false,
+    "duration": null,
+    "difficulty": null
+  }
+]

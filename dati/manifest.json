@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "checkedAt": "2026-09-16T20:47:16.763Z",
+  "files": {
+    "transport": {
+      "generatedAt": "2026-09-07T14:55:27.668Z",
+      "bytes": 847470,
+      "sha256": "caac6699ba5165687473d566af76a1ea8540cc5656f78ac70b3b1481e942f621"
+    },
+    "events": {
+      "generatedAt": "2026-09-16T20:47:10.320Z",
+      "bytes": 8329,
+      "sha256": "a8612e9592a79e4b19c0a45994a1f4c8a5bab69761872fc702071930ca1bec68"
+    },
+    "places": {
+      "generatedAt": "2026-09-16T20:47:16.757Z",
+      "bytes": 109292,
+      "sha256": "eb10dffea8bca84bb5e2a4cdadfbfb1f31c90c0aa41def04ea3524b7975f0f0b"
+    },
+    "alerts": {
+      "generatedAt": "2026-09-16T20:47:16.763Z",
+      "bytes": 63,
+      "sha256": "48fe779e7802d57b3eed81a5c884dac02316ba2a3cf192125b0c6c72addef069"
+    }
+  },
+  "sources": {
+    "transport": {
+      "status": "invariato",
+      "error": "Nessuna linea nella homepage: il sito ha risposto con una pagina di verifica o ha cambiato struttura."
+    },
+    "events": {
+      "status": "aggiornato",
+      "error": null
+    },
+    "places": {
+      "status": "aggiornato",
+      "error": null
+    }
+  }
+}

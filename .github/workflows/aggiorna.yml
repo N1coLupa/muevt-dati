@@ -1,0 +1,50 @@
+# Aggiornamento dei dati di Muevt.
+#
+# Tre tentativi al giorno: dopo l'ultima corsa (22:15 UTC), all'alba e a meta'
+# giornata. Se una fonte non risponde, run-daily tiene i dati del giorno prima
+# e aggiorna le altre; i file cambiati vengono pubblicati subito sul ramo
+# principale, da cui l'app li scarica.
+
+name: Aggiorna dati
+
+on:
+  schedule:
+    - cron: '15 22 * * *'
+    - cron: '30 4 * * *'
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-dati
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install --no-audit --no-fund
+
+      - name: Scarica e controlla
+        run: npm run aggiorna
+
+      - name: Pubblica i dati cambiati
+        run: |
+          git config user.name "muevt-dati"
+          git config user.email "muevt-dati@users.noreply.github.com"
+          git add dati storico
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento"
+          else
+            git commit -m "Dati del $(date -u +%Y-%m-%d)"
+            git push
+          fi

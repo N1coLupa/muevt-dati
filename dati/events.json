@@ -1,0 +1,218 @@
+{
+  "generatedAt": "2026-09-16T20:47:10.320Z",
+  "sources": [
+    {
+      "name": "AltamuraLive",
+      "url": "https://altamuralive.it/"
+    },
+    {
+      "name": "AltamuraLife",
+      "url": "https://www.altamuralife.it/"
+    }
+  ],
+  "events": [
+    {
+      "id": "life-legami-rassegna-di-cinema-nel-teatro-mercadante",
+      "title": "Legàmi, rassegna di cinema nel Teatro Mercadante",
+      "url": "https://www.altamuralife.it/eventi/legami-rassegna-di-cinema-nel-teatro-mercadante/",
+      "source": "AltamuraLife",
+      "sourceUrl": "https://www.altamuralife.it/",
+      "publishedAt": null,
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-17",
+      "startTime": null,
+      "venue": null,
+      "image": "https://altamura.gocity.it/library/media/mfront_manifesto_legami.jpg",
+      "summary": "Da giovedì 17 settembre",
+      "tags": [],
+      "categories": [
+        "cultura"
+      ],
+      "dated": true
+    },
+    {
+      "id": "live-legami-al-teatro-mercadante-quattro-film-per-raccontare-cio-",
+      "title": "“Legàmi”, al Teatro Mercadante quattro film per raccontare ciò che unisce e divide la società italiana",
+      "url": "https://altamuralive.it/2026/09/11/legami-al-teatro-mercadante-quattro-film-per-raccontare-cio-che-unisce-e-divide-la-societa-italiana/",
+      "source": "AltamuraLive",
+      "sourceUrl": "https://altamuralive.it/",
+      "publishedAt": "2026-09-11T09:05:35.000Z",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-17",
+      "startTime": null,
+      "venue": "Teatro Mercadante",
+      "image": null,
+      "summary": "Dal 17 settembre al 1° ottobre torna al Teatro Mercadante la rassegna “Legàmi”, organizzata da Altamura al Cinema: quattro appuntamenti tra politica, sport, famiglia e religione, con proiezioni, ospiti e dibattiti. Si parte con “Giulio Regeni, tutto il male del mondo”. Biglietti a 6 euro.",
+      "tags": [
+        "Cultura",
+        "Spettacolo",
+        "appuntamenti culturali",
+        "comune di altamura",
+        "iniziativa pubblica",
+        "rassegna cinematografica"
+      ],
+      "categories": [
+        "cultura"
+      ],
+      "dated": true
+    },
+    {
+      "id": "live-murgia-a-morsi-2026-ad-altamura-tre-giorni-tra-sapori-musica",
+      "title": "Murgia a Morsi 2026: ad Altamura tre giorni tra sapori, musica, cultura e tradizioni",
+      "url": "https://altamuralive.it/2026/09/11/murgia-a-morsi-2026-ad-altamura-tre-giorni-tra-sapori-musica-cultura-e-tradizioni/",
+      "source": "AltamuraLive",
+      "sourceUrl": "https://altamuralive.it/",
+      "publishedAt": "2026-09-11T14:58:42.000Z",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "startTime": null,
+      "venue": null,
+      "image": null,
+      "summary": "Dal 18 al 20 settembre nei Giardini della Parrocchia SS. Redentore torna il festival organizzato dall’Associazione Algramà. Tante le attività in programma per adulti e bambini. Tra le novità di questa VII edizione il Palio delle Famiglie.",
+      "tags": [
+        "Attualità",
+        "Cultura",
+        "arte",
+        "comune di altamura",
+        "gastronomia",
+        "murgia a morsi"
+      ],
+      "categories": [
+        "trekking",
+        "cultura",
+        "esperienze"
+      ],
+      "dated": true
+    },
+    {
+      "id": "life-altamura-in-scena-2026-15-spettacoli-gratuiti-tra-musica-tea",
+      "title": "Altamura in scena 2026: 15 spettacoli gratuiti tra musica, teatro e comicità",
+      "url": "https://www.altamuralife.it/eventi/altamura-in-scena-2026-15-spettacoli-gratuiti-tra-musica-teatro-e-comicita/",
+      "source": "AltamuraLife",
+      "sourceUrl": "https://www.altamuralife.it/",
+      "publishedAt": null,
+      "startDate": null,
+      "endDate": "2026-09-20",
+      "startTime": null,
+      "venue": null,
+      "image": "https://altamura.gocity.it/library/media/mfront_altamura_logo.jpg",
+      "summary": "Fino al 20 settembre",
+      "tags": [],
+      "categories": [
+        "cultura"
+      ],
+      "dated": true
+    },
+    {
+      "id": "life-altamura-in-scena-2026-euphonix-in-concerto",
+      "title": "Altamura in scena 2026: Euphonix in Concerto",
+      "url": "https://www.altamuralife.it/eventi/altamura-in-scena-2026-euphonix-in-concerto/",
+      "source": "AltamuraLife",
+      "sourceUrl": "https://www.altamuralife.it/",
+      "publishedAt": null,
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "startTime": null,
+      "venue": null,
+      "image": "https://altamura.gocity.it/library/media/mfront_altamura_in_scena_2026.jpg",
+      "summary": "domenica 20 settembre",
+      "tags": [],
+      "categories": [
+        "cultura"
+      ],
+      "dated": true
+    },
+    {
+      "id": "live-altamura-si-racconta-con-note-sapori-d-autore-due-giorni-tra",
+      "title": "Altamura si racconta con “Note & Sapori d’Autore”: due giorni tra luoghi, storie e identità",
+      "url": "https://altamuralive.it/2026/09/12/altamura-si-racconta-con-note-sapori-dautore-due-giorni-tra-luoghi-storie-e-identita/",
+      "source": "AltamuraLive",
+      "sourceUrl": "https://altamuralive.it/",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "startTime": null,
+      "venue": null,
+      "image": null,
+      "summary": "Sabato 19 e domenica 20 settembre Altamura si racconta con “Note & Sapori d’Autore”: visite guidate, storie, tradizioni, canti e degustazioni tra centro antico e Museo del Pane. Partecipazione gratuita con prenotazione entro il 16 settembre.",
+      "tags": [
+        "Attualità",
+        "Cultura",
+        "Eventi",
+        "“Note & Sapori d’Autore”",
+        "attività",
+        "comune di altamura"
+      ],
+      "categories": [
+        "trekking",
+        "cultura",
+        "esperienze"
+      ],
+      "dated": true
+    },
+    {
+      "id": "life-rassegna-di-libri-non-di-solo-pane",
+      "title": "Rassegna di libri \"Non di solo pane\"",
+      "url": "https://www.altamuralife.it/eventi/rassegna-di-libri-non-di-solo-pane/",
+      "source": "AltamuraLife",
+      "sourceUrl": "https://www.altamuralife.it/",
+      "publishedAt": null,
+      "startDate": null,
+      "endDate": "2026-09-25",
+      "startTime": null,
+      "venue": null,
+      "image": "https://altamura.gocity.it/library/media/mfront_non_di_solo_panej.jpg",
+      "summary": "Fino al 25 settembre",
+      "tags": [],
+      "categories": [
+        "esperienze"
+      ],
+      "dated": true
+    },
+    {
+      "id": "life-festa-dei-popoli-musica-e-incontri-interculturali",
+      "title": "Festa dei popoli: musica e incontri interculturali",
+      "url": "https://www.altamuralife.it/eventi/festa-dei-popoli-musica-e-incontri-interculturali/",
+      "source": "AltamuraLife",
+      "sourceUrl": "https://www.altamuralife.it/",
+      "publishedAt": null,
+      "startDate": null,
+      "endDate": "2026-09-27",
+      "startTime": null,
+      "venue": null,
+      "image": "https://altamura.gocity.it/library/media/mfront_festa.popoli_logo.jpg",
+      "summary": "Fino al 27 settembre",
+      "tags": [],
+      "categories": [
+        "eventi"
+      ],
+      "dated": true
+    },
+    {
+      "id": "live-santa-maria-ad-altamura-le-origini-le-tradizioni-e-le-curios",
+      "title": "“Santa Maria” ad Altamura: le origini, le tradizioni e le curiosità della festa altamurana",
+      "url": "https://altamuralive.it/2026/08/14/santa-maria-ad-altamura-le-origini-le-tradizioni-e-le-curiosita-della-festa-altamurana/",
+      "source": "AltamuraLive",
+      "sourceUrl": "https://altamuralive.it/",
+      "publishedAt": "2026-08-14T11:00:00.000Z",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "venue": null,
+      "image": null,
+      "summary": "Dal Duomo federiciano alla processione, dalla “sullenn” alle 100 Ave Maria, passando per antichi contratti, fuochi e memorie familiari: alla vigilia di Santa Maria Assunta riscopriamo riti e curiosità che da secoli accompagnano Altamura.",
+      "tags": [
+        "Attualità",
+        "Cultura",
+        "Cattedrale di Santa Maria Assunta",
+        "comune di altamura",
+        "comunità",
+        "Festa di Santa Maria Assunta"
+      ],
+      "categories": [
+        "cultura"
+      ],
+      "dated": false
+    }
+  ]
+}
